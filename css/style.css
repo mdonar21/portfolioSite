@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #81A8FF;
+}
+
+
+
+/*
+.hero-info {
+    padding: 8%;
+    text-align: center;
+}
+
+h1 {
+    flex-shrink: 0;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: "League Spartan";
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+h2 {
+    flex-shrink: 0;
+    color: #000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.logo {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    margin: 10%;
+}
+
+.logo-image {
+    padding-top: 10%;
+}
+
+*/
